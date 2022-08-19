@@ -10,5 +10,5 @@ The data used in the project is collected from women of at least 21 years of age
 
 The dataset is sourced from Kaggle: https://www.kaggle.com/datasets/mathchi/diabetes-data-set.
 
-### Instructions 
-Code can be executed directly in Diabetes_Prediction_ML.ipynb. 
+### How to run
+Code can be executed by downloading and running Diabetes_Prediction_ML.ipynb. 

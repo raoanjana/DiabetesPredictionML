@@ -9,3 +9,6 @@ This project comprises of data exploration, model learning and model evaluation.
 The data used in the project is collected from women of at least 21 years of age from Pima Native American descent. While we recognize the limited population scope, we see this as a proof-of-concept that could be scaled to other population groups.
 
 The dataset is sourced from Kaggle: https://www.kaggle.com/datasets/mathchi/diabetes-data-set.
+
+### Instructions 
+Code can be executed directly in Diabetes_Prediction_ML.ipynb. 
